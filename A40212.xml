@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The line of righteousness and justice stretched forth over all merchants, &amp;c. and an exhortation to all Friends and people whatsoever who are merchants, tradesmen, husbandmen or sea-men, who deal in merchandize, trade in buying and selling by sea or land, or deal in husbandry, that ye all do that which is just, equal and righteous in the sight of God and man, one to another, and to all men, and that ye use just weights, and just measures, and speak and do that which is true, just and right in all things, that so your conversations, lives, practices and tongues may preach to all people, and answer the good, just and righteous principle of God in them all, in which ye may be serviceable unto God, and to the creation in your generation, and a blessing both to God and man / George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40212</idno>
+            <idno type="STC">Wing F1858</idno>
+            <idno type="STC">ESTC R35522</idno>
+            <idno type="EEBO-CITATION">15353328</idno>
+            <idno type="OCLC">ocm 15353328</idno>
+            <idno type="VID">103477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103477)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The line of righteousness and justice stretched forth over all merchants, &amp;c. and an exhortation to all Friends and people whatsoever who are merchants, tradesmen, husbandmen or sea-men, who deal in merchandize, trade in buying and selling by sea or land, or deal in husbandry, that ye all do that which is just, equal and righteous in the sight of God and man, one to another, and to all men, and that ye use just weights, and just measures, and speak and do that which is true, just and right in all things, that so your conversations, lives, practices and tongues may preach to all people, and answer the good, just and righteous principle of God in them all, in which ye may be serviceable unto God, and to the creation in your generation, and a blessing both to God and man / George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Business ethics --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103477:1"/>
+            <pb facs="tcp:103477:1" rendition="simple:additions"/>
+            <p>THE Line of Righteouſneſs AND JUSTICE Stretched forth over All MERCHANTS, &amp;c.</p>
+            <p>AND An Exhortation to all Friends and People what<g ref="char:EOLhyphen"/>ſoever, who are Merchants, Tradeſmen, Husbandmen, or Seamen, who deal in Merchandize, trade in Buying and Selling by Sea or Land, or deal in Husbandry, <hi>That ye all do that which is Juſt, Equal and Righteous in the Sight of God and Man one to another, and to all Men; and that you <g ref="char:V">Ʋ</g>ſe Juſt Weights, and Juſt Meaſures;</hi> and <hi>Speak and Do that which is True, Juſt and Right in all things;</hi> that ſo your Converſations, Lives, Practices and Tongues may preach to all People, and anſwer the Good, Juſt and Righteous Principle of God in them all; in which ye may be ſerviceable unto God and to the Creation in your Generati<g ref="char:EOLhyphen"/>on, and a Bleſſing both to God and Man.</p>
+            <p>
+               <hi>By</hi> George Fox.</p>
+            <q>
+               <p>He that walketh in his Integrity is Juſt; and bleſſed ſhall be his Chil<g ref="char:EOLhyphen"/>dren after him,</p>
+               <bibl>
+                  <hi>Prov. 20.7.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>
+                  <g ref="char:V">Ʋ</g>njuſt Weights and <g ref="char:V">Ʋ</g>njuſt Meaſures, both theſe are Abomination to the Lord,</p>
+               <bibl>
+                  <hi>Verſ. 10.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103477:2"/>
+            <pb n="3" facs="tcp:103477:2"/>
+            <head>THE Line of Righteouſneſs AND JUSTICE Stretched forth over all MERCHANTS, &amp;c.</head>
+            <p>ALL Friends every where, live in the Seed of God, which is the Righteouſneſs it ſelf; and inherits the Wiſdom, and is the Wiſdom it ſelf, with which Wiſdom ye may order, rule and govern all things which be under your Hands (which God hath given you) to his Glory: Govern and Order with his Wiſdom all the Creatures that you have under you, and all Exchangings, Merchandizing, Husbandry; do what you do in the Wiſdom of God, and with it, which is pure from above, and gentle, and eaſie to be entreated: VVith this VViſdom (which is not Earthly, Senſual, nor Deviliſh) you do Good unto all, and Hurt no one, nor your ſelf; for it is Pure, and preſerves Pure.</p>
+            <p>So this is the Word of the Lord God to you all, Keep all in the <hi>Power of God,</hi> over all the Unrighteous World, which <hi>Power of God</hi> was before it was; in which <hi>Power of God</hi> you will be pre<g ref="char:EOLhyphen"/>ſerved in Juſtice, in Truth, in Equal Ballance, and VVeights and Meaſures, in the Truth, Uprightneſs and Honeſty to all People. So all here in this are ſerviceable to God in their Generation, and to the Creation, and to God and it a Bleſſing. <hi>Do Rightly,</hi> that is the VVord of the Lord God to you all, whether ye be Tradeſ-men of what Calling, or Profeſſion, or Sort ſoever, or Husbandmen: Do
+<pb n="4" facs="tcp:103477:3"/>rightly, juſtly, truly, holily, equally to all people in all things; and that is according to <hi>that of God in every Man,</hi> and the <hi>Witneſs of God,</hi> the <hi>Wiſdom of God,</hi> and the <hi>Life of God in your ſelves;</hi> and there you are ſerviceable in your Generation, labouring in the thing that is <hi>good,</hi> which doth not <hi>spoil,</hi> nor <hi>deſtroy,</hi> nor <hi>waſte the Creation upon the Luſts.</hi>
+            </p>
+            <p>And all Merchants whatſoever, Sea-men and Traffickers by Sea or Land, this is the <hi>Word of the Lord God</hi> to you all; <hi>Do Juſtly, speak truly to all People whatſoever;</hi> then are ye a Dread and a Ter<g ref="char:EOLhyphen"/>ror to the Unjuſt: <hi>VVrong no Man, Over-reach no Man</hi> (if it may be never ſo much to your Advantage) but be <hi>plain, righteous</hi> and <hi>holy;</hi> in this are you ſerviceable to <hi>your own Nation</hi> and <hi>others,</hi> by your Change and Exchanging of things and Merchandize, and to the <hi>Lord God</hi> ye come to be a Bleſſing in the <hi>Creation</hi> and <hi>Gene<g ref="char:EOLhyphen"/>ration.</hi> Live in the Life of Truth, and let the Truth ſpeak in all things, and let Righteouſneſs and Juſtice be acted, and Holineſs in all things, without any Guile, Fraud or Deceit; and ſo that is well-pleaſing to God and Men, and according to that of God in every one: And this ſheweth forth the Fruits of Believers, that are paſ<g ref="char:EOLhyphen"/>ſed from Death to Life, from Death which came by Sin, the O<g ref="char:EOLhyphen"/>riginal of which is the Devil. So being come from Death to Life, which goes over him; over him, I ſay, who is the <hi>Author of all <g ref="char:V">Ʋ</g>nrighteouſneſs:</hi> Now in the Truth and Righteouſneſs you will all have Peace, Favour, and the Bleſſing of the Lord in all things, and that keepeth out the <hi>covetous Mind,</hi> and <hi>covetous Deſires;</hi> the Pow<g ref="char:EOLhyphen"/>er and Life of God, that goes over the power of Death, which brought the Sin; that which keepeth over this hath the Bleſſing and the Enercaſe of the Heavenly Riches, and that ſhall not want the Creatures, <hi>nor any Good Thing from them the Lord will not with<g ref="char:EOLhyphen"/>hold.</hi> So be Careful <hi>to do Good</hi> in all things to all People, whatſo<g ref="char:EOLhyphen"/>ever; in the Fear of God ſerve him; and be dilligent, and not ſtubborn in any thing, but pliable in the Power of God, that keeps you over all the power of Unrighteouſneſs; acting ſo in that, that ye may be a <hi>Good Savour in all Nations, I ſlands</hi> and <hi>Places</hi> where you come, in the Hearts of all people, doing truly &amp; plainly, uprightly, faithfully, juſtly and honeſtly, according to the Light of Chriſt Jeſus in every Man, that that you may witneſs all; then will your <hi>Words, Lives</hi> and <hi>Converſations</hi> preach and manifeſt that ye ſerve
+<pb n="5" facs="tcp:103477:3"/>God in the New Life; and that ye have put off the Old-Man, and his Deeds, which are Unrighteous; and that ye have put on the New Man, which is after God in Righteouſneſs and Holineſs, ac<g ref="char:EOLhyphen"/>cording to his Image.</p>
+            <p>Loathe Deceit and Unrighteouſneſs, Hard-heartedneſs, Wrong<g ref="char:EOLhyphen"/>ing, Cozening, Cheating or Unjuſt Dealing; but live and reign in the <hi>Righteous Life</hi> and <hi>Power of God</hi> and <hi>VViſdom</hi> (that preſſes all the other down) to anſwer the good and juſt Principle in all People, and that will win people to deal with you; doing Truth to all without reſpect to Perſons, to High or Low whatſoever, Young or Old, Rich or Poor; and ſo here your <hi>Lives</hi> and <hi>VVords</hi> will preach where-ever you come.</p>
+            <p>All Husband-men and Dealers about Husbandry whatſoever Cattle or Ground, to you all this is the VVord of the Lord God; do rightly, holily, juſtly honeſtly, plainly and truly to all Men and People whomſoever you have to deal withall, wrong not any in any ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, though it be never ſo to your Advantage: Deny your ſelves and live in the Croſs of Chriſt, the Power of God; for that deſtroyes Injuſtice; and without Holineſs none can ever ſee the Lord; and out of Righteouſneſs there is no true Peace: There<g ref="char:EOLhyphen"/>fore all of what ſort ſover, or what Calling ſoever, do juſtly (whe<g ref="char:EOLhyphen"/>ther ye be Maſters or Servants, Fathers or Mothers, Sons or Daugh<g ref="char:EOLhyphen"/>ters) to one another; and to all do that which is Juſt and Righ<g ref="char:EOLhyphen"/>teous, uprightly and holily, in that you will have Peace, and ſee God.</p>
+            <p>So in all Husbandry ſpeak Truth, act Truth, doing juſtly and uprightly in all your Actions, in all your Pra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tices, in all your VVords, in all your Dealings, Buyings, Sellings, Changings and Commerce with People, let Truth be the Head, and practice it; And in all your VVords let Truth be ſpoken; This brings Right<g ref="char:EOLhyphen"/>ouſneſs forth, and Deceit to the Judgment Bar. VVrong no man, nor covet, nor cheat, nor oppreſs, nor defraud any Man in any Caſe; but keep your Dominion in the Truth, in Righteouſneſs, Holineſs and Equity, in the Power, and Light, and VViſdom of Chriſt: in this you anſwer the Light of Chriſt in every one, and are a Bleſſing to the Lord God, and to your Generation you are ſerviceable, and come to walk in the new Life, in which the righ<g ref="char:EOLhyphen"/>teous holy God is ſerved, in which Righteouſneſs ye have peace,
+<pb n="6" facs="tcp:103477:4"/>and in which Holineſs ye ſee God: For the Kingdom of God ſtands in Righteouſneſs, Peace and Joy in the holy Ghoſt.</p>
+            <p>So ſpeak the Truth, whether Merchants or Trades Men, and all Sorts of People whatſoever in all your Occaſions, and in all your Tradings, Dealings and Doings, ſpeak the Truth, act in the Truth, and walk in the Truth; and this brings Righteouſneſs forth; for it anſwereth the VVitneſs of God in every one, which lets eve<g ref="char:EOLhyphen"/>ry one ſee all the Deeds and Actions they have done amiſs, and VVords which they have ſpoken amiſs: So the VVitneſs of God within them ariſeth a ſwift VVitneſs againſt them, for their VVords which they have ſpoken amiſs, and for t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Actions which they have done amiſs, and brings them to the Judgment Bar, and to Condemnation. Here Righteouſneſs goes forth, and here the ſweet Savour to the Lord God begins to aſcend, and Truth and Equity ariſeth both to be acted and ſpoken.</p>
+            <p>So ye all Friends of what Calling ſoever, that dwell in the Power of God, and feel the Power of God, and the Light of Chriſt Je<g ref="char:EOLhyphen"/>ſus; dwell in that, act in that, that ye may anſwer that of God in every one upon the Earth, with your Actions, and by your Con<g ref="char:EOLhyphen"/>verſations, and by your VVords, being right, juſt and true: This goes over the unjuſt, untrue, unholy and unrighteous in all the whole VVorld, and reacheth to the good and true Principle of God in all People, which tells them when they do not do equally, juſtly, righteouſly and holily: So that is the VVord of God to you all Friends, of what Calling ſoever ye be: Live in the Power of Truth, and VViſdom of God, to anſwer the juſt Principle of God in all People upon the Earth; and ſo ye anſwering of it, thereby ye come to be as a City ſet upon a Hill, which is above that Moun<g ref="char:EOLhyphen"/>tain that is in the whole VVorld, that lies above the juſt Principle of God in every one there, which the Power of God goes over: So let your Lives preach, let your Light ſhine, that your VVorks may be ſeen, that your Father may be glorified, that your Fruits may be unto Holineſs, and that your End may be everlaſting Life. Dwell in the Power of the Lord God, and Light, and Life, with which ye may feel and ſee before the Unrighteouſneſs was; in this you will know the Everlaſting Righteouſneſs brought forth, which anſwereth the righteous Principle of God in every one, to which they muſt come down, to lead them and guide them, to teach
+<pb n="7" facs="tcp:103477:4"/>them to ſpeak and act Truth, juſtly, righteouſly and holily, and that hath the Dominion, which doth juſtly, holily and righteouſly ſpeak, act and think; and this hath the Praiſe of God; and they who do ſo, come to anſwer what God requires, to love Mercy, do juſtly, and to walk humbly with God. And this is more then all the Talkers of Juſtice, Righteouſneſs and Holineſs, whoſe Life denyes what their Tongues profeſs and talk of, by that God and Chriſt is diſhonoured: So theſe are no good Example, neither ſer<g ref="char:EOLhyphen"/>viceable in their Generation nor Creation, nor any, but them who live in the Power of God, and in his VViſdom, in which they have the Righteouſneſs, Peace, Truth, Holineſs, Juſtice and Equity: This is comely and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avourable both to God and Man.</p>
+            <p>And all of what Trade or Calling ſoever, keep out of Debts, owe to no man any thing but Love; go not beyond your Eſtate, leſt you bring your ſelves to Trouble and Cumber and a Snare; keep low and down in all things you act; for a Man that would be great, and goes beyond his Eſtate, lifts himſelf up, runs into Debts, and lives highly of other Mens Means, he is a VVaſter of other Mens, and a Deſtroyer, he is not ſerviceable to the Creation, but a Deſtroyer of the Creation and Creatures, and cumbreth him<g ref="char:EOLhyphen"/>ſelf, and troubleth others, and is lifted up, who would appear to be ſome body, but being from the honeſt, the juſt and good, falls into the Shame: Therefore dwell every one of you under your own Vine (that know Redemption from the Earth) and ſeek not to be great, but in that; and dwell in the Truth, Juſtice, Righteouſneſs and Holineſs; and there is the Bleſſing enlarged.</p>
+            <p>And no one (of what Calling ſoever) run into Debt, U<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ury and Exaction; for many People have been wronged thereby; they that have taken of them, who by it have appeared great, and lived above what they were, and ſo would ſeem to be: Therefore be true and honeſt, holy and righteous, every one in that which ye have; Owe to none any thing but Love, and in that ye will feel the Bleſſing, and come to be ſerviceable in the Creation, ſer<g ref="char:EOLhyphen"/>ving one another in Love, and not in Oppreſſion or Taxation, and that keeps all down in the Power, VViſdom and Life of God, and bends all Minds to ſtrive for one anothers good, and to help one ano<g ref="char:EOLhyphen"/>ther in that which is good, juſt and righteous, and ſerve one ano<g ref="char:EOLhyphen"/>ther in that; in that you live in the Life, and in the Seed, the Pow<g ref="char:EOLhyphen"/>er
+<pb n="8" facs="tcp:103477:5"/>and Righteouſneſs that is everlaſting, which is of God and his VViſdom, through which ye come to anſwer the good, juſt and holy Principle of God in every one upon the Earth, in which Pow<g ref="char:EOLhyphen"/>er ye have Dominion, in which ye come to live the Life that is well-pleaſing to God, and Life which ſhall ſtand when the World is ended; And in this Life, Power and VViſdom of God, that is endleſs, you are a Terror to all that be in the VViſdom below, you are a Terror to all that be in the unrighteous Actions and VVords; and you are a Terror to all that be in the unjuſt and unequal Do<g ref="char:EOLhyphen"/>ings, and all the Defrauders, Cozeners, Cheaters, Over-reachers, Lyers and wrong Dealers: In the Power of God and his Life, in which ye have Juſtice, ye have Truth, ye have Equity, ye have Righteouſneſs, and it cometh to be in you as natural; your Words, your Lives, your Converſations, your Preſence and your Practices, both judge and preach; and you are a Terror to all Men in the juſt Life and Everlaſting Righteouſneſs, Chriſt Jeſus, living in him, and in his Wiſdom, and walking in him, and ſpeaking the Truth as it is in him in all things; your Lives and your Words are a Ter<g ref="char:EOLhyphen"/>ror to all that ſpeak not Truth in your Dealings, and to all that act not truly and Righteouſly in their Doings; your Lives do judge them, and are a Judge to them; and through your Conſtancy, Faith<g ref="char:EOLhyphen"/>fulneſs and Life, which is everlaſting, you bring many to Amend<g ref="char:EOLhyphen"/>ment: For both Life, Actions, Words and Converſation preach (all theſe preach to the unrighteous World) being in the Everlaſting Righteouſneſs, which over the World hath Dominion; through which Life, Power, Seed of God and Wiſdom, you reach and an<g ref="char:EOLhyphen"/>ſwer the good and juſt Principle of God in every one; and it you will make at laſt to confeſs you, though they may go on in the contrary for a Time.</p>
+            <p>So in that Power, Wiſdom, and Dominion, and Strength that gives you Dominion over all, and to anſwer that of God in all, in the Love and Power of the Lord Jeſus Chriſt preſerve and keep you all in his Wiſdom, Life, Seed and Dominion, that to him you may be a Bleſ<g ref="char:EOLhyphen"/>ſing, and a good Savour in the Hearts of all People; and let all yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Actions and Words be one with the VVitneſs of God in all People, <hi>Amen.</hi>
+            </p>
+            <p>The VVicked and Unrighteous ow Envy and Hatred, and with that they pay their Debt; but the Righteous Juſt and Harmleſs,
+<pb n="9" facs="tcp:103477:5"/>who owe nothing to any Man but Love, with that they pay their Debt: But Drunkards, Adulterers, Swearers, Rioters, who eat and drink, and riſe up to Play, and live in Pleaſures wantonly upon the Earth; Fighters, Quarrellers, Envious, Malitious, Un<g ref="char:EOLhyphen"/>juſt, Unrighteous; all ſuch Actions and Practice judge out of the Power of God, and out of his Kingdom.</p>
+            <p>ALL Friends every where, that be Shop-keepers or Merchants, or Factors, or any other Trades, keep low in the Power of God, and do not go into things beyond your Capacity, nor reach after things more then ye can juſtly perform, and anſwer all men: But all in your Places be juſt and true, that ye may anſwer all men within and without, with Truth and Juſtice in your Re<g ref="char:EOLhyphen"/>turns, that you may keep your Words; ſo ſay, and ſo do, which is the Royal Law of Liberty in all your Tra<g ref="char:EOLhyphen"/>dings, elſe you are a Diſhonour to <hi>Chriſtianity.</hi> Therefore fore-ſee your Buſineſs, that what you do, and what you ſay, you may perform, that you may not break your Words and Promiſes; for if you do, ye go to Loſs, nei<g ref="char:EOLhyphen"/>ther are ye Maſters of what ye take in hand; for a Ma<g ref="char:EOLhyphen"/>ſter ſhould be a top of things, and be in that which can command things.</p>
+            <p>And none to be negligent in their Buſineſs; but give an Account by Words or Writings, how things are with them, when others write to them; ſo that none may Wrong one another in theſe outward things, nor oppreſs one another; but be ſerviceable one to another, keep<g ref="char:EOLhyphen"/>ing their Words (their going into things beyond their Ability makes them break their Words) keeping with<g ref="char:EOLhyphen"/>in their Compaſs with that which they may anſwer, leſt any be lifted up; For it is a bad thing to be lifted up, and
+<pb n="10" facs="tcp:103477:6"/>to make a Noiſe and a Shew for a time with other Peo<g ref="char:EOLhyphen"/>ples Goods, and cannot keep their Word, their Pro<g ref="char:EOLhyphen"/>miſe, their Day; ſuch may be lifted up for a time, and Break, and Fall, and go out as a Stink, and bring a great Diſhonour to Chriſt and true <hi>Chriſtians:</hi> And therefore keeping your Word, your Day, and keeping your juſt Meaſure, your juſt Weight, that keeps down the Oppreſ<g ref="char:EOLhyphen"/>ſion; And by that juſt Meaſure and Weight, and your Word and Day, by the Power of God, and his Spirit in your own Hearts, and there the Bleſſing is doubled, there you come to be Rich, and you are a good Savour to God, and in the Hearts of all People.</p>
+            <p>So every one ſtrive to be Rich in the Life, and King<g ref="char:EOLhyphen"/>dom and Things of the World that hath no End; For he that covets to be rich in the things of this World, falls into many Snares and hurtful Luſts. And therefore let him that buyes, or ſells, or poſſeſſes, or uſes this World, be as if he did not; Let them be Maſters over the world in the Power and Spirit of God, and let them know that to owe no man nothing but Love, yet ſerve God in Truth and one another in their Generation.</p>
+            <p>For Friends, if you be not faithful in the Outward Treaſure, Outward Mammon, who will truſt you with the True Treaſure? or who can believe that ye have the True Treaſure, but that you ſpeak by hear-ſay of it? So I ſay to you all, See that you are faithful in this out<g ref="char:EOLhyphen"/>ward Mammon, this outward Treaſure of the things of this Life, of this World, faithful to your Word, faith<g ref="char:EOLhyphen"/>ful to your Dayes, faithful to your Promiſes in all your Tradings, Traffickings, Bargainings, true, and juſt, and righteous and honeſt in theſe outward Treaſures or Mam<g ref="char:EOLhyphen"/>mon, concerning the things of this World, of this Life, of theſe outward Riches; juſt and faithful, true and ho<g ref="char:EOLhyphen"/>neſt
+<pb n="11" facs="tcp:103477:6"/>Men and Women in theſe outward things: I ſay, as Chriſt ſaith, who will truſt you with the true and hea<g ref="char:EOLhyphen"/>venly Treaſure, if not as before? Therefore I ſay, to be Faithful in theſe Outwards, that ſhews an honeſt Man and honeſt Woman, faithful in all your Dealings and Practices between Man and Man, and Woman and Woman, that ſheweth an honeſt Heart, and a faithful Man and Woman in outward things; that an<g ref="char:EOLhyphen"/>ſwers the faithful Principle in all people. So all Men and Women to be faithful in theſe outward things one to another, that ſhews the good Heart to receive the true Treaſure, that you may be faithful in it to God, who have been faithful in their outward Treaſure or Mam<g ref="char:EOLhyphen"/>mon one to another. So let every ones Converſation be without Covetouſneſs, let not that be once named a<g ref="char:EOLhyphen"/>mong Saints; and do to all men as you would have them do to you, that is the Law and the Prophets, if not judged by them; For <hi>the Kingdom ſtands in Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> [mark, ſtands in it] <hi>and in Peace and Joy in the Holy Ghoſt</hi> [mark, in it.]</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>HOlineſs becomes the Houſe of God; whoſoever acts Unholily, it is that doth diſhonour his Houſe, and doth not become it: Whoſoever acts Unfaithfully in this Outward Treaſure or Mammon, or in the True Treaſure to God, is not juſtified in the Sight of God nor Man; for they are juſtified by Faith, through Faith<g ref="char:EOLhyphen"/>fulneſs both of God and Man; <hi>For whoſoever doth Righ<g ref="char:EOLhyphen"/>teouſneſs is of God, and he that doth not Righteouſneſs is not of
+<pb n="12" facs="tcp:103477:7"/>God: For God loveth the Righteous, and delighteth in them; but not in them that do Unrighteouſneſs: for in the Righteouſ<g ref="char:EOLhyphen"/>neſs they have Peace; but out of Righteouſneſs People have Trouble.</hi> So all God's People, his Children, his Saints muſt be holy, as he is holy; and therefore do that which is holy and juſt in all your Lives &amp; Converſations; and whatſoever ye do, let it be done to the Praiſe and Glory of God [mark that] have God's Praiſe and Glory in your Eye, in all your Speakings and Doings; then you will be preſerved to his Glory, and then you will honour him; and they that honour him, he will honour, and beautifie, and cloathe with the fine Linnen, the Righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt, that men may not ſee your Naked<g ref="char:EOLhyphen"/>neſs: For God will have a holy People, to ſerve him in Holineſs; a true People, to ſerve him in Truth, and in his Spirit, and in his new and living Way, above all the dead Wayes that are come by Sin, and Unrighteouſneſs, and Tranſgreſſion of his Spirit, &amp; Power, and Command. So all you that know his Power and Spirit, live in it, that you may Glorifie God in all your Lives, and Converſati<g ref="char:EOLhyphen"/>ons and Words, that you may anſwer that of God in all, that you may Glorifie God in your Bodies, Souls and Spirits, which are his, who hath made them, and gives them to you for that End; To whom be Glory and Ho<g ref="char:EOLhyphen"/>nour forever, who created all for his Glory and for his Honour. So the Lord God Almighty keep and preſerve you faithful in all things to his Glory and Honor forever.</p>
+            <closer>
+               <signed>G. F. Let this be read in all the Men and VVomen's Meetings.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:103477:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
